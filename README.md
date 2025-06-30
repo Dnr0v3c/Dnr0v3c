@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dnr0v3c</h1>
 <h3 align="center">Developer</h3>
 
-- Работал над проектом [FindIT](https://github.com/UntitledTeamWithoutGmo/FindIT_back_java)
+- I worked on the project [FindIT](https://github.com/UntitledTeamWithoutGmo/FindIT_back_java)
 
-- Изучаю **Spring framework,Spring Boot,Spring security,Apache Kafka,Hibernate,Kotlin,Dagger2,Docker,Jetpack Compose,Ktor,Retrofit2**
+- I'm learning **Spring framework,Spring Boot,Spring security,Apache Kafka,Hibernate,Kotlin,Dagger2,Docker,Jetpack Compose,Ktor,Retrofit2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
